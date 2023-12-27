@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "coca_011",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.11.0",
